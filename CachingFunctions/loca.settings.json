@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=coacht1;AccountKey=Cnje8r/2/SJE3X7F85pgLGR6FnKbb2/HBYwwbjw40fQLk/vBNOgHtj79Kb3i67NG9zu/IO0g4/H66oABPdB5Ww==;EndpointSuffix=core.windows.net",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "EHUBASIA": "Endpoint=sb://openhackhub-suf2rd4ttekl2i2oo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ni4VR3RhR489N87A6n2VuJTj7xeXahd7ZfAfmLIyMqw=",
+        "EHUBEUROPE": "Endpoint=sb://openhackhub-suf1rd4ttekl2i2oo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XCF7+22GeQm4kZrN80sZsKH2CkqJp86BhL1lCe4NNF8=",
+        "CosmosDBConnectionString": "AccountEndpoint=https://openhackteam1.documents.azure.com:443/;AccountKey=tFtl53x9rF038YKon9Fwp6Hd1Jx70Uzhc7ncLuyGSWWc9sjb1YnqoWHe5CbJWWpZGEZBwqdTJy4XWxpDqRoHpg==;"
+    }
+}
